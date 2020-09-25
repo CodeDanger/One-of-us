@@ -1,0 +1,12 @@
+{
+  
+  "PERMISSION":"ADMINISTRATOR",
+  "KILLED" : "https://cdn.discordapp.com/emojis/759004508524642305.png?v=1",
+  "AVATAR" :"https://cdn.discordapp.com/attachments/758138589346660385/759003990573842493/icon.webp",
+  "MAX_ROOMS":7,
+  "MAX_ROUNDS" : 3,
+  "MAX_PLAYERS" : 5,
+  "MIN_PLAYERS" : 3,
+  "GUILD":"758138589346660382",
+  "PREFIX": "!"
+}
